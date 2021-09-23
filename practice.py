@@ -12,7 +12,7 @@ date=[
 ['Y-1','Y-2','Y-3'],
 ['z-1','Z-2','z-3'],
 ]
-print(date[1][0])
+print(date[0][2])
 
 #list2.7
 data2=[
@@ -26,6 +26,6 @@ data2=[
   ['Sプラム','Mプラム','Lプラム']
  ],
 ]
-print(data2[1][0][2])
+print(data2[0][0][2])
 
 print('連携できました')
